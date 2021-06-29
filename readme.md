@@ -9,7 +9,7 @@ _30 group website project_
 
 This project is for educational porpuses only.
 
-Site published at 
+Site published at https://realzyyy.github.io/4-girl/
 
 Design: [404 Girl](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
