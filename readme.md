@@ -17,6 +17,8 @@ Design: [404 Girl](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 - Github pages
 - desktop only
+- fixed width content
+- transparent images (.png)
 
 ## Authors
 
