@@ -9,44 +9,101 @@
 </head>
 
 <body>
-    <div class="navigation">
+
+    <div class="navbar">
         <div class="container">
-            <img src="./DV.png" alt="DV logo text">
-            <nav>
+            <div class="img">
+                <a href="#">
+                    <img src="./DV.png" alt="DV logo text">
+                </a>
+            </div>
+            <nav class="nav">
                 <a href="#">Home</a>
                 <a href="#">Tracks</a>
                 <a href="#">Library</a>
                 <a href="#">Community</a>
-                <a href="#">Sign in</a>
+                <a class="sign" href="#">Sign in</a>
             </nav>
         </div>
     </div>
-    <div class="hero">
-        <div class="404">
-            <h1>404</h1>
-            <p>The link is broken or the page has been moved.</p>
+    <section class="hero">
+        <div class="container">
+            <div class="text">
+                <h1>404</h1>
+                <p>The link is broken or the page has been moved.</p>
+            </div>
+            <div class="girl">
+                <img src="./girl.png" alt="girl with sad emoji">
+            </div>
         </div>
-        <div class="girl">
-            <img src="./girl.png" alt="girl with sad emoji">
-        </div>
-    </div>
+    </section>
 </body>
 
 <style>
     body {
+        background-color: #F8F8F8;
+        margin: 0;
         font-family: 'Roboto Mono', monospace;
         color: gray;
-
     }
 
-    div {
-        
+    .nav,
+    a:link,
+    a:visited {
+        text-decoration: none;
+        font-weight: bold;
+        color: gray;
+        display: inline;
+        padding-right: 20px;
+        font-size: 18px;
+        margin-top: 10px;
     }
-    .\34 04{
+
+    .sign {
+        border: 3px solid gray;
+        border-radius: 12px;
+        padding: 3px 15px;
+        text-transform: uppercase;
+    }
+
+    .container{
+        display: flex;
+        place-content: space-between;
+        margin-top: 40px;
+        margin-left: 60px;
+        margin-right: 40px;
+    }
+
+    h1{
+        font-size: 200px;
+        margin-bottom: -70px;
+    }
+
+    .text{
+        margin-left: 100px;
         font-size: 40px;
+        margin-top: -100px;
+        margin-left: 300px;
+    }
+
+    .hero{
+        text-align: left;
         
     }
-    
+    .girl{
+        margin-top: -40px;
+        margin-right: 30px;
+    }
+
+    p{
+        display: inline-block;
+        max-width: 530px;
+        max-height: 90px;
+    }
+
+    .img{
+        margin-left: 250px;
+    }
 </style>
 
 </html>
