@@ -7,7 +7,7 @@
 
 _30 group website project_
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 Site published at https://realzyyy.github.io/4-girl/
 
