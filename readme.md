@@ -1,7 +1,7 @@
 ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-![VEGAN](https://img.shields.io/badge/VEGAN-FREE-brightgreen)
+![VEGAN](https://img.shields.io/badge/Vegan-Friendly-brightgreen)
 # 404 Girl
 
 _30th group website project_
